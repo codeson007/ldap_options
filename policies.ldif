@@ -1,0 +1,4 @@
+dn: ou=policies,dc=test,dc=com
+ou: policies
+objectClass: organizationalUnit
+

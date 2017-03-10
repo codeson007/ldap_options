@@ -1,0 +1,22 @@
+dn: cn=pwdDefault,ou=policies,dc=test,dc=com
+cn: pwdDefault
+pwdAttribute: userPassword
+objectClass: pwdPolicy
+objectClass: person
+objectClass: top
+pwdAllowUserChange: TRUE
+pwdCheckQuality: 2
+pwdExpireWarning: 600
+pwdFailureCountInterval: 30
+pwdGraceAuthNLimit: 5
+pwdInHistory: 5
+pwdLockout: TRUE
+pwdLockoutDuration: 0
+pwdMaxAge: 0
+pwdMaxFailure: 5
+pwdMinAge: 0
+pwdMinLength: 8
+pwdMustChange: FALSE
+pwdSafeModify: FALSE
+sn: pwdDefault
+

@@ -1,0 +1,18 @@
+dn: uid=test_user2,ou=users,dc=test,dc=com
+objectClass: top
+objectClass: person
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+#user info set
+cn: test_user2
+uid: test_user2
+uidNumber: 13141
+gidNumber: 500
+homeDirectory: /home/test_user2
+loginShell: /bin/bash
+gecos: test_user2
+userPassword: {SSHA}k4wk5I/LHvThfqHMipeEwuDnlDtXTsyn
+sn: test_user2
+
+pwdAccountLockedTime: 0

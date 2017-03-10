@@ -1,0 +1,15 @@
+dn: uid=test_user1,ou=users,dc=test,dc=com
+objectClass: top
+objectClass: person
+objectClass: posixAccount
+objectClass: shadowAccount
+#user info set
+cn: test_user1
+uid: test_user1
+uidNumber: 13140
+gidNumber: 500
+homeDirectory: /home/test_user1
+loginShell: /bin/bash
+gecos: test_user1
+userPassword: {SSHA}k4wk5I/LHvThfqHMipeEwuDnlDtXTsyn
+sn: test_user1

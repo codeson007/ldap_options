@@ -1,0 +1,3 @@
+dn: ou=groups,dc=test,dc=com
+ou: groups
+objectClass: organizationalUnit

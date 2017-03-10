@@ -1,0 +1,4 @@
+dn: cn=test_group1,ou=groups,dc=test,dc=com
+changetype: modify
+delete: memberUid
+memberUid: test_user2

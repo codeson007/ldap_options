@@ -1,0 +1,7 @@
+dn: cn=test_group2,ou=groups,dc=test,dc=com
+objectClass: top
+#objectClass: posixGroup
+objectClass: groupOfNames
+#memberUid: test_user3
+member: cn=test_group1,ou=groups,dc=test,dc=com
+#gidNumber: 1001

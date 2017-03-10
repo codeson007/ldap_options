@@ -1,0 +1,3 @@
+dn: uid=test_user3,ou=users,dc=test,dc=com
+changetype: modify
+delete: pwdAccountLockedTime

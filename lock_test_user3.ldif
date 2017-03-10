@@ -1,0 +1,4 @@
+dn: uid=test_user3,ou=users,dc=test,dc=com
+changetype: modify
+replace: pwdAccountLockedTime
+pwdAccountLockedTime: 000001010000Z

@@ -1,6 +1,7 @@
 # openldap-manage-users-and-groups
 
-
+con: mycoder_son@163.com 
+Linux centos、ubuntu等实现 集群用户统一认证（邮件我，需付费哈，赚点奶粉钱）
 最近在项目开发中使用到openldap，管理用户、组，锁定、解锁用户，管理组内用户。
 
 去官网找了好久没有合适的解释，最后查找各类资料终于整理出一套经过生产验证的逻辑，把具体的操作记录下来，整理了shell脚本，以后会python化整改。
